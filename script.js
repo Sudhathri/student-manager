@@ -7,5 +7,6 @@ function addStudent() {
 
     document.getElementById("studentList").appendChild(li);
 document.getElementById("student.list")
+document.getElementById("student.list")
 
 }
