@@ -6,5 +6,6 @@ function addStudent() {
     li.textContent = name;
 
     document.getElementById("studentList").appendChild(li);
+document.getElementById("student.list")
 
 }
